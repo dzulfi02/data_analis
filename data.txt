@@ -1,0 +1,2 @@
+baris 1
+baris 2
